@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+nav{
+    background-color: #5156be;
+    color: #fff;
+}
+.card-footer{
+   background-color: #2ab57d;
+    color: #fff;
+}
+footer{
+    background-color: #5156be; 
+    color: #fff;
+}
